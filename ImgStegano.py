@@ -98,7 +98,7 @@ Label(frame4, text="hide or show your message", bg="#333", fg="white",font="aria
 
 
 
-
+a =10
 
 
 
